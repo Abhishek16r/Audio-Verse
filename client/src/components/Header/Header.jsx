@@ -38,8 +38,8 @@ const Header = () => {
                 <TbSearch />
                 <AiOutlineHeart />
                 <span className="cart-icon">
-                    <chShoppingCart />
-                    <span>3</span>
+                    <CgShoppingCart />
+                    <span>5</span>
                 </span>
             </div>
         </div>
