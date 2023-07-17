@@ -26,10 +26,10 @@
             width: 200px;
             margin-bottom: 20px;
             @include md{
-                width: 500px;
-                margin-right: 60px;
+                width: 350px;
+                margin-right: 100px;
                 margin-top: 50px;
-                margin-bottom: 0;
+                margin-bottom: 50px;
             }
             @include xxl{
                 width: 600px;
@@ -59,7 +59,7 @@
                 line-height: 1;
                 margin-bottom: 20px;
                 @include md{
-                    font-size: 180px;
+                    font-size: 130px;
                 }
             }
             p{
