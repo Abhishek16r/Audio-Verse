@@ -10,7 +10,7 @@ const Product = () => {
             </div>
             <div className="prod-details">
                 <span className="name">Product name</span>
-                <span className="price">&#8377;499</span>
+                <span className="price">&#8377;699</span>
             </div>
         </div>
     )
