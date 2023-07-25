@@ -1,7 +1,7 @@
 import "./Products.scss";
 import Product from "./Product/Product";
 const Products = ({ products, innerPage, headingText }) => {
-    // if (!products || products.length == 0) return <div>Loading....</div>
+    //  if (!products || products.length == 0) return <div>Loading....</div>
     return (
         <div className="products-container">
             {!innerPage && <div className="sec-heading">{headingText}</div>}
