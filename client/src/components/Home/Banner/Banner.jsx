@@ -7,7 +7,10 @@ const Banner = () => {
         <div className="text-content">
           <h1>SALES</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex voluptates recusandae id fugit dolorem consequuntur, molestias placeat quasi aut, odit molestiae ipsam veniam sed aliquam, dolor optio. Repudiandae, delectus consequuntur!
+             Experience Audio Bliss! Elevate every note, every beat, and every lyric
+            with our premium audio devices. From sleek wireless earbuds to powerful 
+            speakers, indulge in music like never before at unbeatable prices and 
+            save up to 60%!
           </p>
           <div className='ctas'>
             <div className="banner-cta">Read More</div>
