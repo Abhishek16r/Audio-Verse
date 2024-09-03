@@ -67,17 +67,17 @@ The AudioVerse platform's API is designed following RESTful principles. Below ar
 ## Installation
 To set up the *Audio Verse* project locally, follow these steps:
 1. **Clone the Repository:**
-  * *git clone https://github.com/Abhishek16r/Audio-Verse.git*
-2. **Navigate to the project directory:**
-  * *cd audioverse*
+   * *git clone https://github.com/Abhishek16r/Audio-Verse.git*
+3. **Navigate to the project directory:**
+   * *cd audioverse*
 3. **Install dependencies for the front end:**
-  * *cd client*
-  * *npm install*
+   * *cd client*
+   * *npm install*
 4. **Install dependencies for the back end:**
-  * *cd ../api*
-  * *npm i stripe*
+   * *cd ../api*
+   * *npm i stripe*
 5. **Run the back end:**
-    * *npm run develop*
-6. **Run the front end:**
-  * *cd ../client*
-  * *npm start*
+   * *npm run develop*
+7. **Run the front end:**
+   * *cd ../client*
+   * *npm start*
