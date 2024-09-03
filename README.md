@@ -12,7 +12,7 @@ The AudioVerse platform follows a client-server architecture:
 ## Front-end
 The front end of AudioVerse enhances user experience with the following key pages and features:
 * **Homepage:**
-![Homepage](client/src/assets/homepage.png)
+![Homepage](client/src/assets/homepage.PNG)
 Displays featured products and navigation to all categories on the site.
   
 * **Product List:** Shows a list of available electronic gadgets with filtering and sorting options.
