@@ -13,6 +13,13 @@ The AudioVerse platform follows a client-server architecture:
 The front end of AudioVerse enhances user experience with the following key pages and features:
 * **Homepage:** Displays featured products and navigation to all categories on the site.
 ![Homepage](client/src/assets/homepage.PNG)
+
+* **Category:** Products are categorized into:
+  * *Headphones*
+  * *Wireless Earbuds*
+  * *Bluetooth Speakers*
+  * *Smart Watches*
+  ![Category](client/src/assets/category.PNG)
   
 * **Product List:** Shows a list of available electronic gadgets with filtering and sorting options.
 ![Product List](client/src/assets/productList.PNG)
@@ -20,6 +27,9 @@ The front end of AudioVerse enhances user experience with the following key page
 * **Product Details:** Provides detailed information about a specific product, including images, specifications, pricing, and related products.
 ![Product Details](client/src/assets/productDetails.PNG)
 ![Related Products](client/src/assets/relatedProducts.PNG)
+
+* **Search Functionality:** Enables users to search for products based on their name.
+![Search Functionality](client/src/assets/searchFunctionality.PNG)
   
 * **Cart:** Allows users to view and manage items they wish to purchase, with options to modify quantities or remove items.
 ![Cart](client/src/assets/cart.PNG)
@@ -27,15 +37,6 @@ The front end of AudioVerse enhances user experience with the following key page
 * **Checkout:** Facilitates the purchase process, including payment integration and order confirmation.
 ![Checkout](client/src/assets/checkout.PNG)
   
-* **Search Functionality:** Enables users to search for products based on their name.
-![Search Functionality](client/src/assets/searchFunctionality.PNG)
-  
-* **Category:** Products are categorized into:
-  * *Headphones*
-  * *Wireless Earbuds*
-  * *Bluetooth Speakers*
-  * *Smart Watches*
-  ![Category](client/src/assets/category.PNG)
 
 ## Back-end
 The back end of AudioVerse is built with *Strapi*, providing robust API and content management capabilities:
