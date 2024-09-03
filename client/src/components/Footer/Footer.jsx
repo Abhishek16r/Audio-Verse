@@ -9,7 +9,11 @@ const Footer = () => {
                 <div className="col">
                     <div className="title">About</div>
                     <div className="text">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, earum voluptas veniam quasi est nam quidem impedit eligendi deleniti numquam?Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, quod.
+                        Welcome to AudioVerse! Discover a world of endless possibilities 
+                        as you browse through our vast collection of products. From Headphones
+                        to smart watches, we've got it all covered. Enjoy seamless shopping,
+                        secure transactions, and lightning-fast delivery, making your online 
+                        experience truly delightful!
                     </div>
                 </div>
                 <div className="col">
@@ -17,19 +21,19 @@ const Footer = () => {
                     <div className="c-item">
                         <FaLocationArrow />
                         <div className="text">
-                            Lorem ipsum dolor, sit amet consectetur adipisicing.
+                            Shop No 101, Connaught Place, New Delhi, 110001, India
                         </div>
                     </div>
                     <div className="c-item">
                         <FaMobileAlt />
                         <div className="text">
-                            Phone : 1234 567 8901
+                            Phone : +91 9876 543 210
                         </div>
                     </div>
                     <div className="c-item">
                         <FaEnvelope />
                         <div className="text">
-                            Email: abcde@audioverse.com
+                            Email: contact@audioverse.com
                         </div>
                     </div>
                 </div>
@@ -55,7 +59,7 @@ const Footer = () => {
             <div className="bottom-bar">
                 <div className="bottom-bar-content">
                     <div className="text">
-                        AUDIO VERSE 2023 CREATED BY ABHISHEK & RAHUL. PREMIUM E-COMMERCE SOLUTIONS.
+                        AUDIO VERSE 2023 CREATED BY ABHISHEK & RAHUL
                     </div>
                     <img src={Payment} />
                 </div>
